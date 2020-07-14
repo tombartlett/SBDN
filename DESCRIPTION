@@ -1,0 +1,13 @@
+Package: SBDN
+Type: Package
+Title: Sparse Bayesian Dynamic Network model
+Version: 1.0
+Date: 2020-7-14
+Author: Thomas E. Bartlett
+Maintainer: Thomas E. Bartlett <thomas.bartlett.10@ucl.ac.uk>
+Description: Fits the Sparse Bayesian Dynamic Network model of Bartlett, Kosmidis and Silva (2020).
+License: GPLv3
+Imports: Rcpp (>= 0.12.12)
+LinkingTo: Rcpp, RcppArmadillo
+NeedsCompilation: yes
+Packaged: 2020-07-14 18:37:21 UTC; tombartlett
